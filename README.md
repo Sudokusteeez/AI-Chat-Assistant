@@ -35,3 +35,8 @@ Note
 Please be aware that this is a simplified implementation and may not fully represent the capabilities of GPT-3.5-turbo. For production use, consider additional security measures and error handling.
 
 Feel free to explore and modify the application to suit your needs and experiment with different AI models provided by OpenAI.
+
+# Enhancements:
+There are two additional versions available:
+1. The assistant will read out its replies rather than providing just text.
+2. The assistant will leverage function calling to provide real-time data beyond its last update.
