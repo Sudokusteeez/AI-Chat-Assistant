@@ -1,5 +1,10 @@
 # AI-Chat-Assistant
 
+# Languages & Programs Used:
+Python
+Visual Studio Code
+OpenAI API Key
+
 # Purpose:
 The purpose of this project is to demonstrate proficiency in AI and natural language processing. The chat assistant uses OpenAI's GPT-3.5-turbo model to understand and respond to user input, simulating a conversation with a sophisticated language model.
 
